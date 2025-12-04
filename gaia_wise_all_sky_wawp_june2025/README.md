@@ -1,4 +1,4 @@
-# GaiaXCatwise
+# GaiaXCatWISE
 
 ## Description
 Associations between Gaia DR3 and CatWISE2020.
@@ -7,7 +7,7 @@ Sources are returned either as a pairing, in which the Gaia and WISE objects are
 
 ## Data Products
 * **README.md**: This file.
-* **GaiaXCatwise**: Comprised of 9,348 CSV-formatted files, totalling 960 GiB
+* **GaiaXCatWISE**: Comprised of 9,348 CSV-formatted files, totalling 960 GiB
 * **UK IDAC Dataset**: `macauff_gaiadr3xcatwise2020`
 * **On Echo**: Files are structured, for efficient data transfer, as 422 CSV files, plus 913 ZIP files containing the remaining 8,912 CSV files, plus metadata files listing the contents of the corresponding ZIP files, giving 2,413 objects totalling 354 GiB.
 
